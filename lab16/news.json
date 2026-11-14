@@ -1,0 +1,14 @@
+{
+    "https://www.bbc.com/news/world/europe": {
+        "word": "Ukraine",
+        "count": 8
+    },
+    "https://edition.cnn.com/": {
+        "word": "Ukraine",
+        "count": 11
+    },
+    "https://www.nytimes.com/": {
+        "word": "Ukraine",
+        "count": 9
+    }
+}
